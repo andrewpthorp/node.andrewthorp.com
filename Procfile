@@ -1,1 +1,1 @@
-web: go.andrewthorp.com
+web: node andrewthorp.js
