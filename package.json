@@ -1,0 +1,16 @@
+{
+  "name": "node.andrewthorp.com",
+  "version": "0.0.1",
+  "description": "Personal website in Node.",
+  "private": true,
+  "dependencies": {
+    "express": "4.7.2",
+    "jade": "1.5.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-sass": "^0.7.2"
+  },
+  "author": "Andrew Thorp",
+  "license": "MIT"
+}
